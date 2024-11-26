@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh=
 echo "Enter a"
 read a
 echo "Enter the b"
